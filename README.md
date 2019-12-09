@@ -1,6 +1,8 @@
 # go.py
 
 A text-based go game written in python.
+[![Run on Repl.it](https://repl.it/badge/github/davesque/go.py)](https://repl.it/github/davesque/go.py)
+
 
 ## Usage
 
